@@ -17,6 +17,7 @@ return [
         'CV' => 'Kepuvede',
         'CW' => 'Kurakao',
         'EC' => 'Ekwado',
+        'EU' => 'Ulaya',
         'GA' => 'Gaboni',
         'GP' => 'Gwadelupe',
         'GS' => 'Visiwa vya Jojia Kusini na Sandwich Kusini',

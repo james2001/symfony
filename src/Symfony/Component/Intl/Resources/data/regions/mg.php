@@ -71,6 +71,7 @@ return [
         'GB' => 'Angletera',
         'GD' => 'Grenady',
         'GE' => 'Zeorzia',
+        'EU' => 'Eoropa',
         'GF' => 'Guyana frantsay',
         'GH' => 'Ghana',
         'GI' => 'Zibraltara',

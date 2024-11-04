@@ -71,6 +71,7 @@ return [
         'GA' => 'Gabɔ',
         'GB' => 'Angɛlɛtɛ́lɛ',
         'GD' => 'Gelenadɛ',
+        'EU' => 'Eropa',
         'GE' => 'Zorzi',
         'GF' => 'Giyanɛ ya Falánsɛ',
         'GG' => 'Guernesey',

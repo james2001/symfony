@@ -71,6 +71,7 @@ return [
         'ER' => 'Eritrėja',
         'ES' => 'Ispanija',
         'ET' => 'Etiopija',
+        'EU' => 'Europa',
         'FI' => 'Suomija',
         'FJ' => 'Fidžis',
         'FK' => 'Folklando Salos',

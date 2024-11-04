@@ -71,6 +71,7 @@ return [
         'GB' => 'Angilɛtɛri',
         'GD' => 'Granadi',
         'GE' => 'Zeyɔrzi',
+        'EU' => 'Yuroba',
         'GF' => 'Faransi ka gwiyani',
         'GH' => 'Gana',
         'GI' => 'Zibralitari',

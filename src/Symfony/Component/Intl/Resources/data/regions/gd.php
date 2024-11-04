@@ -71,6 +71,7 @@ return [
         'ER' => 'Eartra',
         'ES' => 'An Spàinnt',
         'ET' => 'An Itiop',
+        'EU' => 'An Roinn-Eòrpa',
         'FI' => 'An Fhionnlann',
         'FJ' => 'Fìdi',
         'FK' => 'Na h-Eileanan Fàclannach',

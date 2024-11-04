@@ -71,6 +71,7 @@ return [
         'GB' => 'Laamateeri Rentundi',
         'GD' => 'Garnaad',
         'GE' => 'Jeorgii',
+        'EU' => 'Yurop',
         'GF' => 'Giyaan Farayse',
         'GH' => 'Ganaa',
         'GI' => 'Jibraltaar',

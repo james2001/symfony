@@ -71,6 +71,7 @@ return [
         'ER' => 'Eritrea',
         'ES' => 'Spania',
         'ET' => 'Etiopia',
+        'EU' => 'Evrópa',
         'FI' => 'Finnland',
         'FJ' => 'Fiji',
         'FK' => 'Falklandsoyggjar',

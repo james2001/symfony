@@ -71,6 +71,7 @@ return [
         'ER' => 'Eritireya',
         'ES' => 'Sipen',
         'ET' => 'Habasha',
+        'EU' => 'Turai',
         'FI' => 'Finlan',
         'FJ' => 'Fiji',
         'FK' => 'Tsibiran Falkilan',

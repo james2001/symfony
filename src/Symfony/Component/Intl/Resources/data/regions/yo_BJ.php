@@ -71,6 +71,7 @@ return [
         'UZ' => 'Nshibɛkisitani',
         'VC' => 'Fisɛnnti ati Genadina',
         'VE' => 'Fɛnɛshuɛla',
+        'EU' => 'Yúróòp',
         'VI' => 'Etikun Fagini ti Amɛrika',
         'VN' => 'Fɛtinami',
         'WS' => 'Samɔ',

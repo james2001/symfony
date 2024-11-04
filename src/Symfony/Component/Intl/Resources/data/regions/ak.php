@@ -71,6 +71,7 @@ return [
         'GB' => 'Ahendiman Nkabom',
         'GD' => 'Grenada',
         'GE' => 'Gyɔgyea',
+        'EU' => 'Iuropi',
         'GF' => 'Frɛnkye Gayana',
         'GH' => 'Gaana',
         'GI' => 'Gyebralta',

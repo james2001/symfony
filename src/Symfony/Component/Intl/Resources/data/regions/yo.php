@@ -71,6 +71,7 @@ return [
         'ER' => 'Eritira',
         'ES' => 'Sipani',
         'ET' => 'Etopia',
+        'EU' => 'Yúróòp',
         'FI' => 'Filandi',
         'FJ' => 'Fiji',
         'FK' => 'Etikun Fakalandi',

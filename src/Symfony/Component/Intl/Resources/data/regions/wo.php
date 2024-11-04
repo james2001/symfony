@@ -71,6 +71,7 @@ return [
         'ET' => 'Ecopi',
         'FI' => 'Finlànd',
         'FJ' => 'Fijji',
+        'EU' => 'Eroop',
         'FK' => 'Duni Falkland',
         'FM' => 'Mikoronesi',
         'FO' => 'Duni Faro',

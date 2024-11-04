@@ -71,6 +71,7 @@ return [
         'ER' => 'Eritreeya',
         'ES' => 'Isbeyn',
         'ET' => 'Itoobiya',
+        'EU' => 'Yurub',
         'FI' => 'Finland',
         'FJ' => 'Fiji',
         'FK' => 'Jaziiradaha Fooklaan',

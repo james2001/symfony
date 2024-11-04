@@ -71,6 +71,7 @@ return [
         'ET' => 'Etiopia nutome',
         'FI' => 'Finland nutome',
         'FJ' => 'Fidzi nutome',
+        'EU' => 'Yurokpo',
         'FK' => 'Falkland ƒudomekpowo nutome',
         'FM' => 'Mikronesia nutome',
         'FO' => 'Faroe ƒudomekpowo nutome',

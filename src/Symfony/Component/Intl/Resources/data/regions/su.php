@@ -5,6 +5,7 @@ return [
         'BR' => 'Brasil',
         'CN' => 'Tiongkok',
         'DE' => 'Jérman',
+        'EU' => 'Éropa',
         'FR' => 'Prancis',
         'GB' => 'Britania Raya',
         'ID' => 'Indonesia',

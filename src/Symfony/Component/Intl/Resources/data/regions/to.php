@@ -71,6 +71,7 @@ return [
         'ER' => 'ʻElitulia',
         'ES' => 'Sipeini',
         'ET' => 'ʻĪtiōpia',
+        'EU' => 'ʻEulope',
         'FI' => 'Finilani',
         'FJ' => 'Fisi',
         'FK' => 'ʻOtumotu Fokulani',

@@ -71,6 +71,7 @@ return [
         'GB' => 'Ködörögbïä--Ôko',
         'GD' => 'Grenâda',
         'GE' => 'Zorzïi',
+        'EU' => 'Zôrop',
         'GF' => 'Güyâni tî farânzi',
         'GH' => 'Ganäa',
         'GI' => 'Zibraltära, Zibaratära',

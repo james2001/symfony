@@ -71,6 +71,7 @@ return [
         'ES' => 'Spánia',
         'ET' => 'Etiopia',
         'FI' => 'Suopma',
+        'EU' => 'Eurohpá',
         'FJ' => 'Fijisullot',
         'FK' => 'Falklandsullot',
         'FM' => 'Mikronesia',

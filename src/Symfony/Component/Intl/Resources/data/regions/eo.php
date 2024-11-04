@@ -71,6 +71,7 @@ return [
         'GB' => 'Unuiĝinta Reĝlando',
         'GD' => 'Grenado',
         'GE' => 'Kartvelujo',
+        'EU' => 'Eŭropo',
         'GF' => 'Franca Gviano',
         'GH' => 'Ganao',
         'GI' => 'Ĝibraltaro',

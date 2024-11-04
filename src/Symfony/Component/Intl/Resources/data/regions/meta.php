@@ -71,6 +71,7 @@ return [
         'ER',
         'ES',
         'ET',
+        'EU',
         'FI',
         'FJ',
         'FK',

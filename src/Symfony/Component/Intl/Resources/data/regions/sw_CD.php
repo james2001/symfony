@@ -7,6 +7,7 @@ return [
         'BJ' => 'Benini',
         'CI' => 'Kodivaa',
         'CX' => 'Kisiwa cha Christmas',
+        'EU' => 'Ulaya',
         'HR' => 'Kroeshia',
         'JO' => 'Yordani',
         'LB' => 'Lebanoni',

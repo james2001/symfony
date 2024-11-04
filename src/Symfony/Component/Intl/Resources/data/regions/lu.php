@@ -71,6 +71,7 @@ return [
         'GB' => 'Angeletele',
         'GD' => 'Ngelenade',
         'GE' => 'Joriji',
+        'EU' => 'Europe',
         'GF' => 'Giyane wa Nfalanse',
         'GH' => 'Ngana',
         'GI' => 'Jibeletale',

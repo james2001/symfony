@@ -71,6 +71,7 @@ return [
         'ER' => 'Eritēria',
         'ES' => 'Peina',
         'ET' => 'Etiopia',
+        'EU' => 'Ewīwī',
         'FI' => 'Whinarana',
         'FJ' => 'Whītī',
         'FK' => 'Motu Whākarangi',

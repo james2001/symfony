@@ -71,6 +71,7 @@ return [
         'ER' => 'an Eiritré',
         'ES' => 'an Spáinn',
         'ET' => 'an Aetóip',
+        'EU' => 'An Eoraip',
         'FI' => 'an Fhionlainn',
         'FJ' => 'Fidsí',
         'FK' => 'Oileáin Fháclainne',

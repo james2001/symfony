@@ -71,6 +71,7 @@ return [
         'GB' => 'Ubwongereza',
         'GD' => 'Gerenada',
         'GE' => 'Jeworujiya',
+        'EU' => 'Uburayi',
         'GF' => 'Gwayana y’Abafaransa',
         'GH' => 'Gana',
         'GI' => 'Juburalitari',

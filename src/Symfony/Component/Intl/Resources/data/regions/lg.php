@@ -71,6 +71,7 @@ return [
         'GB' => 'Bungereza',
         'GD' => 'Gurenada',
         'GE' => 'Gyogya',
+        'EU' => 'Yuroopu',
         'GF' => 'Guyana enfalansa',
         'GH' => 'Gana',
         'GI' => 'Giburalita',

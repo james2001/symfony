@@ -71,6 +71,7 @@ return [
         'GB' => 'Ngeretha',
         'GD' => 'Grenada',
         'GE' => 'Jojia',
+        'EU' => 'Europa',
         'GF' => 'Gwiyana ya Ufaransa',
         'GH' => 'Ngana',
         'GI' => 'Jibralta',

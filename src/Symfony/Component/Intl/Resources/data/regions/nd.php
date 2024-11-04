@@ -71,6 +71,7 @@ return [
         'GB' => 'United Kingdom',
         'GD' => 'Grenada',
         'GE' => 'Georgia',
+        'EU' => 'Yuropha',
         'GF' => 'Gwiyana ye Furansi',
         'GH' => 'Ghana',
         'GI' => 'Gibraltar',
